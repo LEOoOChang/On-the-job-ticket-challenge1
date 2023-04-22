@@ -1,4 +1,4 @@
-# Horiseon Social Solution Application
+# 01 HTML, CSS, and Git: Code Refactor
 
 ## Discription
 Need to maximize the exposure of your business to gather potential customers? Wish to control the image of your business to hold on to existing customers? Seeking to find the suitable media for your business to absorb more customers? Horiseon is here for you.
